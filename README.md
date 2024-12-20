@@ -29,7 +29,6 @@ bash
 Insert Code
 Run
 Copy code
-git clone https://github.com/PICT-PBL-6-2021-22/public_health_record_management_system
 Navigate to the project directory:
 bash
 Insert Code
